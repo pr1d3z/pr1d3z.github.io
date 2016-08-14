@@ -1,1 +1,51 @@
-                      /* CSS */
+							/* CSS */
+
+/* colors */
+.green {
+	background-color: #08EE58;
+}
+.green-text {
+	color: #08EE58;
+}
+.white {
+	background-color: #F5F5F5;
+}
+.white-text {
+	color: #F5F5F5;
+}
+.purple {
+	background-color: #53009A;
+}
+.purple-text {
+	color: #53009A;
+}
+.violet {
+	background-color: #0D0735;
+}
+.violet-text {
+	color: #0D0735;
+}
+.indigo {
+	background-color: #8027F3;
+}
+.indigo-text {
+	color: #8027F3;
+}
+.mauvelous {
+	background-color: #EF70A7; 
+}
+.mauvelous-text {
+	color: #EF70A7;
+}
+.pink {
+	background-color: #FC4F97;
+}
+.pink-color {
+	color: #FC4F97;
+}
+.cyan {
+	background-color: #39EAFC;
+}
+.cyan-text {
+	color: #39EAFC;
+}
