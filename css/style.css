@@ -55,3 +55,12 @@
 .baltic-text {
 	color: #26252D;
 }
+@font-face {
+	font-family: Main;
+	src: ebold.woff;
+}
+html {
+	font-family: Main;
+}
+}
+}
