@@ -4899,7 +4899,8 @@ small {
   text-transform: uppercase;
   vertical-align: middle;
   -webkit-tap-highlight-color: transparent;
-  margin: auto;
+  position: absolute;
+  
 }
 
 .btn.disabled, .disabled.btn-large,
