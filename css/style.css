@@ -54,6 +54,7 @@
 }
 .baltic-text {
 	color: #26252D;
+	text-align: center;
 }
 @font-face {
 	font-family: Main;
@@ -62,3 +63,4 @@
 .mainf {
 	font-family: Main;
 }
+.center
