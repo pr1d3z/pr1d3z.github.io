@@ -66,9 +66,10 @@
 .btn1 {
     position: absolute;
     left: 0;
-    top: 50%;
+    top: 5%;
     width: 100%;
     text-align: center;
     font-size: 18px;
     display: inline-block;
+    background-color: teal;
 }
