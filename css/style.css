@@ -66,4 +66,7 @@
 .btn1 {
        border: 3px solid teal;
        background-color: teal;
+       text-align: center;
+       margin: auto;
+       color: white;
 }
