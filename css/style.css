@@ -68,7 +68,7 @@
 }
 .btn1 {
 	position: absolute;
-	left: 0;
+	left: auto;
 	width: auto;
 	text-align: center;
 	font-size: 18px;
