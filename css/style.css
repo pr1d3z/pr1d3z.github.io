@@ -63,4 +63,7 @@
 .mainf {
 	font-family: Main;
 }
-.center
+.btn1 {
+       border: 3px solid teal;
+       background-color: teal;
+}
