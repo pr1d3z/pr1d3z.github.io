@@ -63,19 +63,28 @@
 .mainf {
 	font-family: Main;
 }
-.btn1 {
-	a:
+.pluginname {
+	display: block;
+	border: none;
+	text-decoration: none;
+	background-color: teal;
+	padding-top: 21px;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 18px;
+	margin-top: 23px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+	width: 150px;
 	position: relative;
 	left: -50;
 	text-align: center;
 	font-size: 18px;
 	color: white;
 }
-.btn11 {
-	display: inline-block;
-	height: auto;
-	border: none;
-	text-decoration: none;
-	background-color: teal;
-	padding: 4px 2px;
+.pluginname:hover {
+	box-shadow: 0 12px 16px 0 rgba(70,86,85,1.00), 0 17px 50px 0 rgba(46,50,55,1.00);
 }
+	
+	
