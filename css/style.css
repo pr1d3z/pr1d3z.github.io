@@ -65,13 +65,14 @@
 }
 .btn1 {
 	position: absolute;
-	margin: 20px auto;
+	left: 0;
+	width: 100%;
 	text-align: center;
 	font-size: 18px;
 	color: white;
 }
 .btn11 {
-	display: inline block;
+	display: inline-block;
 	height: auto;
 	border: none;
 	text-decoration: none;
