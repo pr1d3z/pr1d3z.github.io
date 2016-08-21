@@ -35,6 +35,7 @@
               <th data-field="id">Permission</th>
               <th data-field="name">commands</th>
               <th data-field="price">Description</th>
+              <th dara-field="setperm"> Set perm></th>
           </tr>
         </thead>
 
@@ -43,69 +44,79 @@
             <td>pocketmine.command.whitelist.add</td>
             <td>/whitelist add <username></td>
             <td>Add other user(s) to the whitelist</td>
+            <td>/setgperm [group] pocketmine.command.whitelist.add </td>
           </tr>
           <tr>
             <td>pocketmine.command.whitelist.remove</td>
             <td>/whitelist remove <user></td>
             <td>Remove user(s) from the whitelist </td>
+            <td>/setgperm [group] pocketmine.command.whitelist.remove</td>
           </tr>
           <tr>
             <td>pocketmine.command.whitelist.disable</td>
             <td>/whitelist off</td>
             <td>Turn off whitelist.</td>
+            <td>/setgperm [group] pocketmine.command.whitelist.disable</td>
           </tr>
           <tr>
             <td>pocketmine.command.list</td>
             <td>/list</td>
             <td>List users online.</td>
+            <td>/setgperm [group] pocketmine.command.list</td>
           </tr>
           <tr>
             <td>pocketmine.command.ban</td>
             <td>/ban</td>
             <td>Ban users</td>
+            <td>/setgperm [group] pocketmine.command.ban</td>
           </tr>
           <tr>
             <td>pocketmine.command.ban.ip</td>
             <td>/ban-ip</td>
             <td>Command currently not allowed on LEET servers.</td>
+            <td>/setgperm [group] pocketmine.command.ban.ip</td>
           </tr>
           <tr>
               <td>pocketmine.command.unban</td>
               <td>/unban</td>
               <td>Uban users</td>
+              <td>/setgperm [group] pocketmine.command.unban</td>
           </tr>
           <tr>
               <td>pocketmine.command.op.give</td>
               <td>/op</td>
               <td>Op users</td>
+              <td>/setgperm [group] pocketmine.command.op.give</td>
           </tr>
           <tr>
               <td>pocketmine.command.save</td>
               <td>/save</td>
               <td>Save progress</td>
+              <td>/setgperm [group] pocketmine.command.save</td>
           </tr>
           <tr>
               <td>pocketmine.command.save.enable</td>
               <td>/save-on</td>
               <td>Enable auto saving</td>
+              <td>/setgperm [group] pocketmine.command.enable</td>
           </tr>
           <tr>
               <td>pocketmine.command.save.disable</td>
               <td>/save-off</td>
               <td>Unable auto saving</td>
+              <td>/setgperm [group] pocketmine.command.disable</td>
           </tr>
           <tr>
               <td>pocketmine.command.time</td>
               <td>/time</td>
               <td>All /time commands.</td>
+              <td>/setgperm [group] pocketmine.command.time</td>
           </tr>
           <tr>
               <td>pocketmine.command.time.set</td>
               <td>/time set</td>
               <td>Set time.</td>
-          </tr>
-          <tr>
-              <td></td>
+              <td>/setgperm [group] pocketmine.command.time.set</td>
           </tr>
         </tbody>
       </table>
