@@ -63,15 +63,21 @@
 .mainf {
 	font-family: Main;
 }
+.btnc {
+	position: relative;
+}
 .btn1 {
-    position: absolute;
-    text-align: center;
-    font-size: 18px;
-    border: none;
-    display: inline-block;
-    background-color: teal;
-    color: white;
-    text-decoration: none;
-    padding 5px 3px;
-    margin: auto;
+	position: absolute;
+	left: 0;
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	color: white;
+}
+.btn11 {
+	displat: inline block;
+	height: auto;
+	border: none;
+	text-decoration: none;
+	background-color: teal;
 }
