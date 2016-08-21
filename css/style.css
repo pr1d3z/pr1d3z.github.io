@@ -64,9 +64,8 @@
 	font-family: Main;
 }
 .btn1 {
-	position: absolute;
-	left: 0;
-	width: 100%;
+	position: relative;
+	left: -50;
 	text-align: center;
 	font-size: 18px;
 	color: white;
